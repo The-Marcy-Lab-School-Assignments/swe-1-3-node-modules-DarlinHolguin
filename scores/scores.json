@@ -1,19 +1,19 @@
 {
   "testScores": {
     "Madlib Challenge Tests": {
-      "MaChTe1": 0,
-      "MaChTe2": 0,
-      "MaChTe3": 0,
-      "MaChTe4": 0,
-      "MaChTe5": 0,
-      "MaChTe6": 0,
-      "MaChTe7": 0
+      "MaChTe1": 1,
+      "MaChTe2": 1,
+      "MaChTe3": 1,
+      "MaChTe4": 1,
+      "MaChTe5": 1,
+      "MaChTe6": 1,
+      "MaChTe7": 1
     },
     "Modify Tests": {
-      "MoTe1": 0,
-      "MoTe2": 0,
-      "MoTe3": 0,
-      "MoTe4": 0
+      "MoTe1": 1,
+      "MoTe2": 1,
+      "MoTe3": 1,
+      "MoTe4": 1
     }
   },
   "idToTestNameHash": {
@@ -43,8 +43,8 @@
     "Modify Tests prints the right response from another function": "MoTe4"
   },
   "humanReadable": {
-    "Madlib Challenge Tests": "0/7",
-    "finalTestScore": "FINAL SCORE: 0/11",
-    "Modify Tests": "0/4"
+    "Madlib Challenge Tests": "7/7",
+    "finalTestScore": "FINAL SCORE: 11/11",
+    "Modify Tests": "4/4"
   }
 }
